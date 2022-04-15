@@ -1,2 +1,3 @@
 # AKIKANJU
-Elite bussiness directory listing
+Bussiness directory listing for Top 1000 Elite companies, Brands an Individuals in Nigerials.
+This contain all necesary information....
